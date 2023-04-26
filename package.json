@@ -1,0 +1,22 @@
+{
+  "name": "telegram-voice-bot-chatgpt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/main.js",
+    "start": "node ./src/main.js"
+  },
+  "author": "Sobolev",
+  "license": "ISC",
+  "description": "Telegram voice bot ChatGPT",
+  "keywords": [
+    "Telegram",
+    "Voice",
+    "Bot",
+    "ChatGPT"
+  ],
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
